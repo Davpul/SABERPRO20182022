@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Resultados__nicos_Saber_Pro_20240305.csv filter=lfs diff=lfs merge=lfs -text
